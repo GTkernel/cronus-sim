@@ -4,7 +4,7 @@
 ```
 python run_cronus.py
 ```
-# Visualized memory access patterns and pattern detection
+### Visualized Memory Access Patterns and Pattern Detection
 Under the folder `images/`.
 
 This repo also contains the following code:

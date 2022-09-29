@@ -4,10 +4,12 @@
 ```
 python run_cronus.py
 ```
+# Visualized memory access patterns and pattern detection
+Under the folder `images/`.
 
 This repo also contains the following code:
 - `hmem_sim/` includes the hybrid memory simulation created in Cori and validated against an Intel Optane PMEM platform.
-- `traces/` includes memory access traces generated for Cori.
+- `traces/` includes memory access traces generated for Cori and visualised with Cronus.
 
 
 ## Paper references

@@ -16,8 +16,8 @@ This repo also contains the following code:
 
 - <b>Cronus: Computer Vision-based Machine Intelligent Hybrid Memory Management.</b><br/>
 Thaleia Dimitra Doudali, Ada Gavrilovska. <br/>
-In Proceedings of the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2021).
+In Proceedings of the 2022 International Symposium on Memory Systems (MEMSYS 2022).
 
 - <b>Cori: Dancing to the Right Beat of Periodic Data Movements over Hybrid Memory Systems.</b><br/>
 Thaleia Dimitra Doudali, Daniel Zahka, Ada Gavrilovska. <br/>
-In Proceedings of the 2022 International Symposium on Memory Systems (MEMSYS 2022).
+In Proceedings of the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2021).
